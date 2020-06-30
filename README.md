@@ -8,6 +8,8 @@
 
 (You should only edit App.js)
 
+---
+
 ### Your app should work like this
 
 ![App](https://github.com/nhost/intern-challenge-app/blob/master/assets/app.gif?raw=true)
