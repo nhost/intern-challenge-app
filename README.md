@@ -1,6 +1,12 @@
 # Nhost Intern Challenge Appp
 
-Start: `yarn start` or `npm start`
+1. Clone this repository to your computer.
+
+2. Start the app with `yarn start` or `npm start`.
+
+3. Build the app.
+
+(You should only edit App.js)
 
 ### Your app should work like this
 
