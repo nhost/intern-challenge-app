@@ -1,4 +1,4 @@
-# Nhost Intern Challenge Appp
+# Nhost Intern Challenge App
 
 1. Clone this repository to your computer.
 
